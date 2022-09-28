@@ -1,4 +1,9 @@
 #Set es lo mismo que conjunto
+#Un conjunto es una lista de elementos donde ninguno de ellos está repetido. 
+# A partir de una lista, en la que pueden haber elementos repetidos, 
+# con set es posible crear otra lista con todos los elementos pero sin repetir ninguno. 
+# Además, si tenemos varias listas podemos realizar operaciones de conjuntos de 
+# unión, diferencia, intersección y diferencia simétrica:
 
 planetas = {'Marte',"Júpiter","Venus"}
 print(planetas)#Cambia el orden todo el tiempo

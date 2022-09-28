@@ -1,4 +1,10 @@
 #Un diccionario está compuesto por dos elemntos, una llave y un valor
+#Los diccionarios son objetos que contienen una lista de parejas de elementos. 
+# De cada pareja un elemento es la clave, que no puede repetirse, y, el otro, un valor asociado. 
+# La clave que se utiliza para acceder al valor tiene que ser un dato inmutable como una cadena, 
+# mientras que el valor puede ser un número, una cadena, un valor lógico (True/False), una lista o una tupla.
+# Los pares clave-valor están separados por dos puntos, las parejas por comas y todo el conjunto se encierra entre llaves.
+
 #dict(key,value)
 diccionario={
     'IDE':'Integrated Development Enviorment',

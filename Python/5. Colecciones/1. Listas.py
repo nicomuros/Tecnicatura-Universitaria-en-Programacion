@@ -1,5 +1,8 @@
 from token import EXACT_TOKEN_TYPES
-
+#Una lista es una estructura de datos que contiene una colección o secuencia de datos. 
+# Los datos o elementos de una lista deben ir separados con una coma y todo el conjunto entre corchetes. 
+# Se dice que una lista es una estructura mutable porque además de permitir el acceso a los elementos, 
+# pueden suprimirse o agregarse nuevos.
 
 nombres = ["Nico", 'Sol', 'Cristina'] #Pueden ser string, numericos, lógicos, se usan corchetes
 for i in nombres:

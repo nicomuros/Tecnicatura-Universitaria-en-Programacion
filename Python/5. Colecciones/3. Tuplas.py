@@ -1,3 +1,9 @@
+#Una tupla permite tener agrupados un conjunto inmutable de elementos, es decir, 
+# en una tupla no es posible agregar ni eliminar elementos. 
+# Las tuplas se declaran separando los elementos por comas y éstos, 
+# opcionalmente, pueden ir entre paréntesis.
+
+
 #definimos una tupla
 cocina = ('cuchara', 'cuchillo', 'tenedor')
 print(cocina)
