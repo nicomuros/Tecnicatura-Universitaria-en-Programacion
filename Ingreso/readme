@@ -1,0 +1,108 @@
+Hola! aquí van la lista de ejercicios resueltos en PSEint
+
+Capítulo 2: Entidades Primitivas:  
+Ejercicio 1: Escribir la ecuacion cuadratica en forma de algoritmo para encontrar valor de las raices
+Ejercicio 2: Determinar la solución lógica de la siguiente operación: ((3+5*8) < 3 y ((-6/3)*4) + 2<2)) o (a>b) 
+Ejercicio 3: Hacer un programa para intercambiar el valor de 2 variables. 
+
+Capítulo 4: Estructuras Secuenciales:  
+Ejercicio 1: Calcular la cantidad de segundos que están incluidos en el número de horas, minutos y segundos ingresados por el usuario. 
+Ejercicio 2: Hacer un programa para ingresar el radio de un circulo y se reporte su área y la longitud de la circunferencia. 
+Ejercicio 3: Un maestro desea saber qué porcentaje de hombres y que porcentaje de mujeres hay en un grupo de estudiantes. 
+Ejercicio 4: Un profesor prepara tres cuestionarios para una evaluación final: A, B y C. Se sabe que se tarda 5 minutos en revisar el cuestionario A, 8 en revisar el cuestionario B y 6 en el C. La cantidad de exámenes de cada tipo se entran por teclado. ¿Cuántas horas y cuántos minutos se tardará en revisar todas las evaluaciones? 
+Ejercicio 5: Una tienda ofrece un descuento del 15% sobre el total de la compra y un cliente desea saber cuánto deberá pagar finalmente por su compra. 
+Ejercicio 6: Un alumno desea saber cuál será su calificación final en la materia de Algoritmos. Dicha calificación se compone de los siguientes porcentajes:  
+•	55% del promedio de sus tres calificaciones parciales. 
+•	30% de la calificación del examen final. 
+•	15% de la calificación de un trabajo final. 
+
+Capítulo 5: Estructuras Condicionales 
+Ejercicio 1: Ingrese un número entero y reportar si es par o impar. 
+Ejercicio 2: Determinar si un alumno aprueba o reprueba un curso, sabiendo que aprobará si su promedio de tres calificaciones es mayor o igual a 70; reprueba caso contrario. 
+Ejercicio 3: En un almacén se hace un 20% de descuento a los clientes cuya compra supere los $100. ¿Cuál será la cantidad que pagará una persona por su compra? 
+Ejercicio 4: Leer 2 números; si son iguales que los multiplique, si el primero es mayor que el segundo que los reste y si no que los sume. 
+Ejercicio 5: Leer tres números diferentes e imprimir el número mayor de los tres. 
+Ejercicio 6: Una frutería ofrece las manzanas con descuento según la siguiente tabla:  Determinar cuánto pagará una persona que compre manzanas en esa frutería.  
+      Número de kilos comprados 	% Descuento 
+                          0 - 2 	0% 
+                       2.01 - 5 	10% 
+                      5.01 - 10 	15% 
+               10.01 en adelante 	20% 
+Ejercicio 7: Elaborar un programa que me muestre los días de las semanas cuando ingrese los siete primeros números. 
+Ejercicio 8: Elaborar un programa que me muestre el significado de aniversario de cada década hasta los 60. 
+  Bodas de Hojalata 	10 años 
+  Bodas de Porcelana 	20 años 
+  Bodas de Perlas 	30 años 
+  Bodas de Rubí 	40 años 
+  Bodas de Oro 	50 años 
+  Bodas de Diamante 	60 años 
+Ejercicio 9: Hacer un programa que tenga un menú con las siguientes opciones:  
+•	Opción 1: Elevar un número a una potencia X 
+•	Opción 2: Sacar la raíz cuadrada de un número 
+•	Opción 3: Salir 
+
+Capítulo 6: Estructuras Repetitivas:  
+Ejercicio 1: Calcular la suma de los “N” primeros números. 
+Ejercicio 2: Se desea calcular independientemente la suma de los números pares e impares comprendidos entre 1 y 50. 
+Ejercicio 3: Leer 10 números e imprimir cuantos son positivos, cuantos negativos y cuantos neutros. 
+Ejercicio 4: Suponga que se tiene un conjunto de calificaciones de un grupo de 10 alumnos. Realizar un algoritmo para calcular la calificación promedio y la calificación más baja de todo el grupo. 
+Ejercicio 5: Calcular el factorial de un número mayor o igual a 0. 
+Ejercicio 6: Calcular la siguiente sumatoria de los “N” elementos:  S = 1 + 4 + 9 + …   
+Ejercicio 7: Ingresar “N” enteros, visualizar la suma de los números pares de la lista, cuántos números pares existen y cuál es el promedio de los números impares. 
+Ejercicio 8: Dada las horas trabajadas de 5 personas y la tarifa de pago calcular el salario, y la sumatoria de todos los salarios. 
+Ejercicio 9: Calcular la suma de los “N” términos de la siguiente serie:  
+S = 1  -  1  +  1  -  1  +  1  -  1  +  …  1 
+          2     3     4     5     6        N   
+ 
+Ejercicio 10: Ingresar “N” números, calcular el máximo y mínimo de ellos. 
+Ejercicio 11: Imprimir la serie de los “N” términos de la serie de Fibonacci. 
+Ejercicio 12: Calcular la sumatoria:  
+  S=1+(x/1!)+(x^2/2!)+(x^n/n!)
+
+Capítulo 7: Arreglos:  
+Ejercicio 1: Crea un arreglo unidimensional con un tamaño de 5 (números reales), pregúntale al usuario los valores y calcula la suma y promedio de todos ellos. 
+Ejercicio 2: Crear un arreglo unidimensional donde el usuario indique el tamaño por teclado, luego llenar el arreglo con números aleatorios entre 1 - 100 y por último mostrar los elementos del arreglo. 
+Ejercicio 3: Crea un arreglo unidimensional con "N" caracteres, lee los elementos por teclado, guardarlos en el arreglo y muéstralos en el orden inverso al introducido. 
+Ejercicio 4: Crea un arreglo unidimensional con "N" números, lee los elementos por teclado, guardarlos en el arreglo, calcula cuál de los números es el mayor de todos y además cuál es el menor de todos. 
+Ejercicio 5: Leer 8 números enteros dentro de un arreglo. Debemos mostrarlos en el siguiente orden: el primero, el último, el segundo, el penúltimo, el tercero, etc. 
+Ejercicio 6: Leer por teclado una serie de 5 números reales. El programa debe indicarnos si los números están ordenados de forma creciente, decreciente, o si están desordenados.   
+Ejercicio 7: Crear un programa que lea por teclado un arreglo de 6 números y la desplace una posición hacia abajo: el primero pasa a ser el segundo, el segundo pasa a ser el tercero y así sucesivamente. El último pasa a ser el primero. 
+Ejercicio 8: Leer 5 elementos numéricos que se introducirán ordenados de forma creciente. Éstos los guardaremos en un arreglo de tamaño 6. Leer un número N, e insertarlo en el lugar adecuado para que el arreglo continúe ordenado.  
+Ejercicio 9: Leer por teclado un arreglo de 5 elementos numéricos y una posición (entre 0 y 4). Eliminar el elemento situado en la posición dada sin dejar huecos. 
+Ejercicio 10: Leer dos arreglos de 5 números enteros cada uno, que estarán ordenados crecientemente. Copiar (fusionar) los dos arreglos en un tercero, de forma que los números sigan ordenados. 
+
+Capítulo 10: Cadena de Caracteres:  
+Ejercicio 1: Diseñe un programa que permita ingresar una cadena de caracteres, y detecte cuántas vocales tiene. 
+Ejercicio 2: Calcular la longitud de 2 cadenas de caracteres, y mostrar la cadena con la mayor longitud. 
+Ejercicio 3: Diseñe un algoritmo cuya entrada sea una Cadena, y un número entero N, cuya función sea generar la cadena dada N veces.  
+Ejercicio 4: Diseñe un algoritmo que elimine los espacios en blanco de un texto. 
+Ejercicio 5: Cambiar una cadena de caracteres, al revés 
+Ejercicio 6: Diseñar un algoritmo que tomando como entrada una cadena de texto nos devuelva si es o no un palíndromo. Se conoce que se denomina palíndromo a una palabra o frase que, ignorando los blancos, se lee igual de izquierda a derecha que de derecha a izquierda. 
+Ejercicio 7: Ingresar una frase y modificarla convirtiendo el primer carácter de cada palabra si esta fuera una letra, de minúsculas a mayúsculas. 
+Ejercicio 8: Sustituir todos los espacios en blanco de una frase por un asterisco (*). 
+Ejercicio 9: Leer una frase y contar el número de vocales (de cada una) que aparecen. 
+Ejercicio 10: Realizar un programa que permita contabilizar cuantas veces una subcadena se repite dentro de una frase. 
+
+Capítulo 11: Matrices:  
+Ejercicio 1: Hacer un algoritmo que almacene números en una matriz de 3*4. Imprimir la suma de los números pares almacenados en la matriz. 
+Ejercicio 2: Hacer un algoritmo que llene una matriz de 4*4 y determine la posición [fila, columna] del número mayor almacenado en la matriz. 
+Ejercicio 3: Hacer un algoritmo que llene una matriz de 4*4. Calcular la suma de cada fila y almacenarla en un arreglo, la suma de cada columna y almacenarla en otro arreglo. 
+Ejercicio 4: Hacer un algoritmo que llene una matriz de 3*4. Sumar las columnas e imprimir que columna tuvo la máxima suma y la suma de esa columna. 
+Ejercicio 5: Hacer un algoritmo que llene una matriz de 4*4  y que almacene la diagonal principal en un arreglo. Imprimir el arreglo resultante. 
+Ejercicio 6: Hacer un algoritmo que llene una matriz de 5*5 y que almacene en la diagonal principal unos y en las demás posiciones ceros. 
+
+Capítulo 12: Modularidad:  
+Ejercicio 1: Diseñar un algoritmo que pida un nombre al usuario y que despliegue en pantalla el nombre entre asteriscos. La cantidad de asteriscos debe ser la misma que caracteres en el nombre incluido espacios. 
+Ejercicio 2: Diseñe un algoritmo que muestre un menú al usuario con las siguientes opciones: potenciación, raíz cuadrada y terminar, que cada opción la realice una función o procedimiento. 
+Ejercicio 3: Desarrollar un programa que pueda calcular el valor del tipo de cambio de moneda (de tu moneda – hacia dólar y viceversa). 
+Ejercicio 4: Escriba un subprograma nombrado cambio() que tenga un parámetro en número entero y seis parámetros de referencia en número entero nombrados cien, cincuenta, veinte, diez, cinco y uno, respectivamente. La función tiene que considerar el valor entero transmitido como una cantidad en dólares y convertir el valor en el número menor de billetes equivalentes. 
+Ejercicio 5: Diseñar un algoritmo que pida al usuario 5 apellidos, los almacene en un arreglo y posteriormente muestre los apellidos ordenados alfabéticamente. 
+Ejercicio 6: Diseñe un algoritmo que contenga el siguiente menú: 
+1.	Llenar una matriz de 4*4 
+2.	Mostrar la matriz 
+3.	Sumar todos los elementos de la matriz 
+4.	Salir 
+Ejercicio 7: Escribir una función recursiva para elevar un numero a una potencia.  
+Ejercicio 8: Implementar un subprograma recursivo que realice la serie Fibonacci. 
+Ejercicio 9: Implementar un subprograma recursivo que permita sumar los dígitos de un número. 
+
