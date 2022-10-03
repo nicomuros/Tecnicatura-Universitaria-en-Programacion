@@ -22,8 +22,8 @@ public class Persona { //En este sectos se define la clase, y debe ser publica p
     */
 
     //PRIMERO SE DECLARAN LOS ATRIBUTOS, COMO BUENA PRÁCTICA (caracteristicas)
-    String nombre;
-    String apellido;
+    public String nombre; //tenemos que hacerlo publico para poder acceder desde otros paquetes
+    public String apellido;
 
     //METODOS (Acciones) Pueden recibir valores (argumentos) y devolverlos (valor de retorno=
     public void ObtenerInformacion(){ //se puede usar fuera de la clase (public). Void significa que NO REGRESA INFO Los parentesis indican que PUEDEN RECIBIR INFO
