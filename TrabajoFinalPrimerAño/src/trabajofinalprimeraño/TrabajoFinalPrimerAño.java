@@ -21,10 +21,10 @@ public class TrabajoFinalPrimerAño {
                     usuario2.sumarPuntaje();
                     break;
                 case 3:
-                    usuario1.sumarPuntaje(Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresar puntaje a sumar: ", 0)));
+                    usuario1.sumarPuntaje(Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresar puntaje a sumar: ")));
                     break;
                 case 4:
-                    usuario2.sumarPuntaje(Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresar puntaje a sumar: ", 0)));
+                    usuario2.sumarPuntaje(Integer.parseInt(JOptionPane.showInputDialog(null, "Ingresar puntaje a sumar: ")));
                     break;
                 case 0:
                     JOptionPane.showMessageDialog(null, "Muchas gracias por jugar!!");
@@ -41,13 +41,13 @@ public class TrabajoFinalPrimerAño {
         nombreUsuario = JOptionPane.showInputDialog(null,
                 "Bienvenido a Bestias Binarias Games\n\n"
                 + ""
-                + "Ingrese el nombre del jugador 1:\n", "Jugador 1");
+                + "Ingrese el nombre del jugador 1:\n");
         usuario1.crearUsuario(nombreUsuario);
         
         nombreUsuario = JOptionPane.showInputDialog(null, 
                 "Bienvenido a Bestias Binarias Games\n\n"
                 + ""
-                + "Ingrese el nombre del jugador 2:\n", "Jugador 2");
+                + "Ingrese el nombre del jugador 2:\n");
         usuario2.crearUsuario(nombreUsuario);
     }
     
@@ -61,7 +61,7 @@ public class TrabajoFinalPrimerAño {
                 +"2. Sumar un punto a " + usuario2.nombre + "\n"
                 +"3. Sumar varios puntos a " + usuario1.nombre + "\n"
                 +"4. Sumar varios puntos a " + usuario2.nombre + "\n\n"
-                +"0. Salir", "Ingrese un valor"));
+                +"0. Salir"));
             
             if (eleccion >= 0 && eleccion <= 4){
                 return eleccion;
