@@ -13,7 +13,7 @@ public class TrabajoFinalPrimerAño {
         Usuarios usuario1 = new Usuarios();
         Usuarios usuario2 = new Usuarios();
         
-        /* Usamos la función cargarUsuarios() para cargar los datos a los objetos*/
+        /*Usamos la función cargarUsuarios() para cargar los datos a los objetos*/
         cargarUsuarios(usuario1,usuario2);
         
         /*ciclo infinito que muestra el menú la primera vez, y cada vez que el usuario
@@ -57,6 +57,8 @@ public class TrabajoFinalPrimerAño {
                     }
                     
                     break;
+                case 6:
+                    
                 case 0:
                     JOptionPane.showMessageDialog(null, "Muchas gracias por jugar!!");
                     continuar = false;
@@ -99,9 +101,10 @@ public class TrabajoFinalPrimerAño {
                 +"3. Sumar varios puntos a " + usuario1.nombre + "\n"
                 +"4. Sumar varios puntos a " + usuario2.nombre + "\n"
                 +"5. IOWA\n\n"
+                +"6. coso"
                 +"0. Salir"));
             
-            if (eleccion >= 0 && eleccion <= 5){
+            if (eleccion >= 0 && eleccion <= 6){
                 return eleccion;
             }
         }

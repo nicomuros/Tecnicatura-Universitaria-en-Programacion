@@ -1,7 +1,11 @@
 package trabajofinalprimeraño;
 import javax.swing.JOptionPane;
+import java.util.Random;
 
 public class Juegos {
+    public static void ppt(Usuarios usuario1, Usuarios usuario2){
+        
+    }
     public static void iowa(Usuarios usuario){
         byte entrada;
         byte Gano = 10;
@@ -78,4 +82,17 @@ public class Juegos {
         }
         if (monedas <= 0){ usuario.sumarPuntaje(Perdio); } else { usuario.sumarPuntaje(Gano); }
     }   
+    public static void blackJack(){
+        while (true){
+            Cartas deck = new Cartas();
+            int carta1;
+            int carta2;
+            
+            carta1 = deck.recuperarValor();
+            carta2 = deck.recuperarValor();
+            
+            
+            
+        }
+    }
 }

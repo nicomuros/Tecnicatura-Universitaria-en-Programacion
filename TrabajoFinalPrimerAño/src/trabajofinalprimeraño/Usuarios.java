@@ -13,6 +13,7 @@ public class Usuarios{
         {
             puntaje++;
         }
+        
         public void sumarPuntaje(int puntos) //Método que suma n puntos
         {
             puntaje += puntos;
