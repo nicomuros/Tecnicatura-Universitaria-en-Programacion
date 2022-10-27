@@ -15,8 +15,10 @@ Operadores de Asignación:
 =
 
 Operadores de comparación
-==
+== revisa valor sin importar el tipo
+=== revisa valor y tipo
 !=
+!== revisa valor y tipo
 >=
 <=
 >
@@ -38,7 +40,8 @@ Secuencias de Escape:
 
 Operador de aumento:
 ++
-
+Let z = ++a //preinceremento, si a vale 1, z va a valer 2
+Let z = a++ //post incremento, asigna el valor de "a", luego a "a" le suma uno
 Operador de decremento
 --
 
