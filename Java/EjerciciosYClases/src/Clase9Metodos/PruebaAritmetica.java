@@ -34,10 +34,28 @@ public class PruebaAritmetica{
         //un constructor, el constructor vacio ya no se crea, hay que hacerlo manualmente
         miMetodo();//llamamos al otro método.
         
+        Persona persona = new Persona("Nicolás", "Muros");
+        System.out.println("persona = " + persona);
+        System.out.println("persona.nombre = " + persona.nombre);
+        System.out.println("persona.apellido = " + persona.apellido);
+        
     }
     
     public static void miMetodo(){//otro metodo
         var a = 10; //hay que redeclararla, porque las declaradas previamente son LOCALES, paara ello hay que usar variables GLOBALES
         System.out.println("Aquí hay otro método");
+    }
+}
+
+//la segunda clase creada no puede ser pública
+
+class Persona{//de esta forma creamos la clase dentro de la misma plantilla, se le asigna el modificador de acceso "default"
+    String nombre;
+    String apellido;
+    
+    Persona(String nombre, String apellido){
+        this.nombre = nombre;
+        this.apellido = apellido;
+        System.out.println("Objeto persona usando this: "+this);
     }
 }
